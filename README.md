@@ -38,7 +38,7 @@ Working at Fitzpatrick lab, which explores the molecular and structural basis of
 
 - Full-time Summer Research Assistant (2024/5 - 2024/8)  
 Funded by the Rabi Scholars Office of Columbia, working full time for Fitzpatrick Lab at Zuckerman Institute and studying a disease called Preeclampsia. Preeclampsia is known as a leading cause of maternal and fetal mortality, characterized by its possibility of sudden progression to severe stages. Recent studies have shown that in the urine of women with preeclampsia, a protein called uromodulin excesses with the presence of amyloid fibril formation. This research aims to establish a new biomarker to diagnose preeclampsia in the earlier stage by quantifying changes in the amount of uromodulin and amyloid fibrils that appear in the urine across various stages of preeclampsia throughout gestation.  
-![My Image](Yuki.Ogawa.Priyanka.Matthews.Symposium Poster_page-0001.jpg)
+![My Image](Symposium-Poster.jpg)
 
 - Sapient (undergraduate journal of biological anthropology ), Illustrator/editorial board (2024/1 - present)  
 Columbia University’s student-led scientific journal for biological anthropology. I work as a member of the editorial board and as an illustrator. Issued the journal vol.11 as a member of the editorial board. Drew the back cover art.  
