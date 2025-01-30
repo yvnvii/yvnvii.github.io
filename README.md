@@ -29,7 +29,7 @@ Language: Japanese (native), English (bilingual proficiency), Chinese (introduct
 Environmental Science: evolutionary biology, primatology, botany
 Biology: neurodegenerative diseases, cancer
 Computer Science: bioinformatics, computational biology
-Public Policy: public policy about science, science ethics, women’s empowerment (Op-Ed: Women Should Not Give Up on Both: Being Mothers and Scientists) 
+Public Policy: public policy about science, science ethics, women’s empowerment [Op-Ed:Women Should Not Give Up on Both: Being Mothers and Scientists](https://docs.google.com/document/d/14m0owvIFjNlr56inRgWmZuqNy70tAxLMsm8QdFwKPt8/edit?usp=sharing) 
 
 # Awards
 ## Yanai Tadashi Scholarship
