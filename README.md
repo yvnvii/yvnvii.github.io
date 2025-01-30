@@ -39,10 +39,20 @@ Scholarship which covers university expenses of up to 100K USD/year for 4 years 
 Chosen for Columbia College’s one of the most selective programs, awarded to approximately 10 most promising students each year for extraordinary achievements as scientists and mathematicians.
 
 # Projects
-Research Assistant at Fitzpatrick Lab in Zuckerman Institute, Columbia University
-2024/1 - present
-Working at Fitzpatrick lab, which explores the molecular and structural basis of neurodegeneration and memory using cryo-electron microscopy with complementary biophysical techniques (proteomics, light-microscopy, microfluidics.) Our team tries to determine the structure and behavior of amyloid fibrils, purified directly from postmortem human brain tissue, that are implicated in a range of neurodegenerative diseases and explore their interactome.
+- Research Assistant (2024/1 - present) at Columbia's Mortimer B. Zuckerman Mind Brain and Behavior Institute
+Working at Fitzpatrick lab, which explores the molecular and structural basis of neurodegeneration and memory using cryo-electron microscopy with complementary biophysical techniques (proteomics, light-microscopy, microfluidics.) In the lab, our team tries to determine the structure and behavior of amyloid fibrils, purified directly from postmortem human brain tissue, that are implicated in a range of neurodegenerative diseases and explore their interactome.
 
+- Full-time Summer Research Assistant (2024/5 - 2024/8)
+Funded by the Rabi Scholars Office of Columbia, working full time for Fitzpatrick Lab at Zuckerman Institute and studying a disease called Preeclampsia. Preeclampsia is known as a leading cause of maternal and fetal mortality, characterized by its possibility of sudden progression to severe stages. Recent studies have shown that in the urine of women with preeclampsia, a protein called uromodulin excesses with the presence of amyloid fibril formation. This research aims to establish a new biomarker to diagnose preeclampsia in the earlier stage by quantifying changes in the amount of uromodulin and amyloid fibrils that appear in the urine across various stages of preeclampsia throughout gestation.
+
+- Sapient (undergraduate journal of biological anthropology ), Illustrator/editorial board (2024/1 - present)
+Columbia University’s student-led scientific journal for biological anthropology. I work as a member of the editorial board and as an illustrator. Issued the journal vol.11 as a member of the editorial board. Drew the back cover art.
+
+- Secretarial Assistant at the Members’ Office Building of the House of Councilors, Japan (2024/8)
+I worked as a secretarial assistant at the office of Keichiro Asao, the Minister of the Environment, and the Minister of State for Special Missions in Japan.
+
+- Atelier Basi Volunteer Mentor (2023/7 - present)
+Mentoring high school students who desire to attend universities abroad as a volunteer mentor.
 
 
 
