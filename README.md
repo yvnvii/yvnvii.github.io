@@ -3,7 +3,6 @@
 ![My Image](ED6FFB6B-61C7-40B7-A06A-1B23032756D1_1_105_c.jpeg)
 
 # Education
-
 ## Tokyo Metropolitan Tachikawa Kokusai Secondary Education School 
 - High School Diploma
 2017/4 - 2023/3
@@ -35,8 +34,6 @@ Public Policy: public policy about science, science ethics, women’s empowermen
 # Awards
 ## Yanai Tadashi Scholarship
 Scholarship which covers university expenses of up to 100K USD/year for 4 years by Yanai Tadashi, the founder and president of UNIQLO. 
-Acknowledgement letter from Yanai Tadashi Foundation
-Yanai Tadashi Profile
 
 ## Rabi Scholar
 Chosen for Columbia College’s one of the most selective programs, awarded to approximately 10 most promising students each year for extraordinary achievements as scientists and mathematicians.
