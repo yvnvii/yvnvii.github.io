@@ -2,7 +2,7 @@
 
 This is my personal site hosted on GitHub Pages.
 
-![My Website](https://drive.google.com/file/d/14-SuorEHo32DZOifhERZNV6zGRtOq0vY/view?usp=sharing "My Photo")
+![My Image](ED6FFB6B-61C7-40B7-A06A-1B23032756D1_1_105_c.jpeg)
 
 ## About Me
 Hi, I'm **{username}**! This site is a work in progress.
